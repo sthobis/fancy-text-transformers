@@ -2,6 +2,7 @@
   "name": "fancy-text-transformers",
   "version": "0.1.0",
   "private": true,
+  "homepage" : "http://sthobis.github.io/fancy-text-transformers",
   "dependencies": {
     "prop-types": "^15.6.0",
     "react": "^16.2.0",
