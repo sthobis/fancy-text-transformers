@@ -7,3 +7,5 @@ Usage :
   mask='github'
 />
 ```
+
+Demo : https://sthobis.github.io/fancy-text-transformers/
